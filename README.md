@@ -2,7 +2,7 @@
 
 **General Info:**
 
-* Versão estável: v0.0.1
+* Stable version: v0.0.1
 * URL Base: [https://]()
 * URL Homologação: [https://]()
 
